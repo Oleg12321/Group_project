@@ -1,0 +1,88 @@
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.header_menu_logo_link {
+  position: relative;
+}
+
+.header_content {
+  display: flex;
+  justify-content: flex-end;
+  gap: 248px;
+}
+
+.header {
+  
+}
+
+.header_left {
+  display: flex;
+}
+
+.logo_vantage {
+  position: absolute;
+}
+
+.header_link {
+  display: flex;
+  gap: 4px;
+  color: rgba(255, 255, 255, 0.75);
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.3px;
+}
+
+.header_menu {
+
+}
+
+.logo {
+
+}
+
+.information {
+  display: flex;
+}
+
+.list {
+  
+}
+
+.link_item {
+
+}
+
+.item {
+  
+}
+
+.item_link {
+
+}
+
+.navigate {
+  display: flex;
+  gap: 37px;
+}
+
+.menu {
+
+  
+}
+.menu_item {
+
+}
